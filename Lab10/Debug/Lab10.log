@@ -1,0 +1,8 @@
+﻿  Lab10.c
+C:\Users\sylus\source\repos\Lab10\Lab10\Lab10.c(45,49): warning C4133: '=': incompatible types - from 'Trie *' to 'trie *'
+C:\Users\sylus\source\repos\Lab10\Lab10\Lab10.c(60,34): warning C4047: 'return': 'int' differs in levels of indirection from 'trie *'
+C:\Users\sylus\source\repos\Lab10\Lab10\Lab10.c(77,42): warning C4133: 'function': incompatible types - from 'trie *' to 'Trie *'
+C:\Users\sylus\source\repos\Lab10\Lab10\Lab10.c(94,23): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sylus\source\repos\Lab10\Lab10\Lab10.c(96,5): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sylus\source\repos\Lab10\Lab10\Lab10.c(101,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sylus\source\repos\Lab10\Lab10\Lab10.c(103,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
